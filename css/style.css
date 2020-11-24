@@ -58,9 +58,7 @@ nav > .navbar > .nav-item >a:hover, nav > h1 > a:hover{
     overflow: hidden;
 }
 
-.content-text{    
-    padding: 40px;    
-}
+
 
 
 .content > .left-content{
@@ -144,6 +142,9 @@ footer{
     margin: 10px 20px;
 }
 
+.content-text{    
+    padding: 40px;    
+}
 
 @media screen and (max-width:600px){
     .body{
